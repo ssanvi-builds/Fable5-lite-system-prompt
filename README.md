@@ -26,7 +26,7 @@
 
 #### 2. Claude Projects (claude.ai)
 1. Create or open a Project.
-2. Upload `CLAUDE-OPUS-LITE.md` as **`CLAUDE.md`** in the project root.
+2. Upload `fable5-lite-system-prompt.md` as **`CLAUDE.md`** in the project root.
 3. Claude will load it automatically in every chat within that project.
 
 #### 3. Anthropic API
